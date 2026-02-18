@@ -1,4 +1,129 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-} 
+[
+  {
+    "item": "home",
+    "schoolname": "American University",
+    "abbreviationExternal": "AU",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": "#E0263C",
+    "primaryBrandColor": "#172249",
+    "buttonColor": "#E0263C",
+    "buttonTextColor": "#ffffff",
+    "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/au.png",
+    "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/au.png",
+    "partner_id": "0014T00000aYUZfQAO",
+    "programName": "AU Global Career Accelerator",
+    "termsandConditionsPolicy": "https://www.american.edu/policies/",
+    "registrationMessage": "Registration is now open.",
+    "credits": "6 AU credits",
+    "startDate": "May 11",
+    "endDate": "August 15"
+  },
+  {
+    "item": "about",
+    "schoolname": "American University",
+    "genericProgramName": "The Global Career Accelerator",
+    "schoolFullAddress": "Kogod School of Business, 4400 Massachusetts Ave NW, Washington, DC 20016",
+    "abbreviationExternal": "AU",
+    "phone": "(202) 858-0358",
+    "credits": "6 AU credits",
+    "programFee": "+ 2,450",
+    "seasonYear": "Summer 2026",
+    "term": "Summer",
+    "season": "Summer",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": "6 AU credits",
+    "abbreviationExternal": "AU",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "digital-marketing",
+    "schoolname": "American University",
+    "trackTitle": "Digital Marketing Track",
+    "credits": "6 AU credits",
+    "abbreviationExternal": "AU",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "KSB 289",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 11",
+    "term1EndDate": "August 15",
+    "term2StartDate": "August 31",
+    "term2EndDate": "December 11"
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "American University",
+    "trackTitle": "Web Development for Everyone Track",
+    "credits": "6 AU credits",
+    "abbreviationExternal": "AU",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "KSB 289",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 11",
+    "term1EndDate": "August 15",
+    "term2StartDate": "August 31",
+    "term2EndDate": "December 11"
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "American University",
+    "trackTitle": "Data Analytics Track",
+    "credits": "6 AU credits",
+    "abbreviationExternal": "AU",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "KSB 289",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 11",
+    "term1EndDate": "August 15",
+    "term2StartDate": "August 31",
+    "term2EndDate": "December 11"
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "American University",
+    "trackTitle": "Coding for Data Track",
+    "credits": "6 AU credits",
+    "abbreviationExternal": "AU",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "KSB 289",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 11",
+    "term1EndDate": "August 15",
+    "term2StartDate": "August 31",
+    "term2EndDate": "December 11"
+  },
+  {
+    "item": "career-discovery",
+    "schoolname": "American University",
+    "trackTitle": "Career Rotation Track",
+    "credits": "6 AU credits",
+    "abbreviationExternal": "AU",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "KSB 289",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 11",
+    "term1EndDate": "August 15",
+    "term2StartDate": "August 31",
+    "term2EndDate": "December 11"
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "AU Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": "(202) 858-0358",
+    "abbreviationExternal": "AU"
+  },
+  {
+    "item": "begin",
+    "credits": "6 AU credits",
+    "abbreviationExternal": "AU",
+    "phone": "(202) 858-0358"
+  }
+]
