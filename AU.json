@@ -2,7 +2,7 @@
   {
     "item": "home",
     "schoolname": "American University",
-    "abbreviationExternal": "AU",
+    "abbreviation": "AU",
     "genericProgramName": "The Global Career Accelerator",
     "secondaryBrandColor": "#E0263C",
     "primaryBrandColor": "#172249",
@@ -23,7 +23,7 @@
     "schoolname": "American University",
     "genericProgramName": "The Global Career Accelerator",
     "schoolFullAddress": "Kogod School of Business, 4400 Massachusetts Ave NW, Washington, DC 20016",
-    "abbreviationExternal": "AU",
+    "abbreviation": "AU",
     "phone": "(202) 858-0358",
     "credits": "6 AU credits",
     "programFee": "+ 2,450",
@@ -35,7 +35,7 @@
   {
     "item": "explore-tracks",
     "credits": "6 AU credits",
-    "abbreviationExternal": "AU",
+    "abbreviation": "AU",
     "registrationMessage": "Registration is now open."
   },
   {
@@ -43,7 +43,7 @@
     "schoolname": "American University",
     "trackTitle": "Digital Marketing Track",
     "credits": "6 AU credits",
-    "abbreviationExternal": "AU",
+    "abbreviation": "AU",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "KSB 289",
     "seasonYear1": "Summer 2026",
@@ -58,7 +58,7 @@
     "schoolname": "American University",
     "trackTitle": "Web Development for Everyone Track",
     "credits": "6 AU credits",
-    "abbreviationExternal": "AU",
+    "abbreviation": "AU",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "KSB 289",
     "seasonYear1": "Summer 2026",
@@ -73,7 +73,7 @@
     "schoolname": "American University",
     "trackTitle": "Data Analytics Track",
     "credits": "6 AU credits",
-    "abbreviationExternal": "AU",
+    "abbreviation": "AU",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "KSB 289",
     "seasonYear1": "Summer 2026",
@@ -88,7 +88,7 @@
     "schoolname": "American University",
     "trackTitle": "Coding for Data Track",
     "credits": "6 AU credits",
-    "abbreviationExternal": "AU",
+    "abbreviation": "AU",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "KSB 289",
     "seasonYear1": "Summer 2026",
@@ -103,7 +103,7 @@
     "schoolname": "American University",
     "trackTitle": "Career Rotation Track",
     "credits": "6 AU credits",
-    "abbreviationExternal": "AU",
+    "abbreviation": "AU",
     "registrationMessage": "Registration is now open.",
     "courseCode1": "KSB 289",
     "seasonYear1": "Summer 2026",
@@ -118,12 +118,12 @@
     "programName": "AU Global Career Accelerator",
     "registrationMessage": "Registration is now open.",
     "phone": "(202) 858-0358",
-    "abbreviationExternal": "AU"
+    "abbreviation": "AU"
   },
   {
     "item": "begin",
     "credits": "6 AU credits",
-    "abbreviationExternal": "AU",
+    "abbreviation": "AU",
     "phone": "(202) 858-0358"
   }
 ]
